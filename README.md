@@ -2,7 +2,7 @@
 
 # Awesome-Technical-Documentation-Authoring-Suite
 
-# Top Technical Documentation Authoring Suite Ecosystem
+## Top Technical Documentation Authoring Suite Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Structured Authoring, Multi-Format Publishing & Self-Hosted CCMS Workflows*  
